@@ -8,3 +8,6 @@ Legger ved et bilde av første dag vi bygget sammen i garasjen :)
 ![20251018_153200](https://github.com/user-attachments/assets/8faf3f4f-8322-4569-8126-0ae47c984330)
 Her er linken til Jira (Trello). Planlegger verktøy:
 https://team-level-legends.atlassian.net/jira/core/projects/TLL/board?filter=&groupBy=status&atlOrigin=eyJpIjoiNGM0OGJjYmM2ODkxNDRhMWJkZWY4YmUzYTRkYjAzMWIiLCJwIjoiaiJ9
+
+
+Link til fremføringsvideo av prosjekt: https://drive.google.com/file/d/1yMqjTrDx6olA68Docapslr17UIuEbb0a/view?usp=sharing
